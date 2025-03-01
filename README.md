@@ -19,22 +19,39 @@ Major: Computational Data Science
 
 ## Portfolio Projects
 
-### 1. GOOGLE MERCHANDISE STORE ANALYTICS  
-- **Objective**: Conducted a strategic analysis to improve the performance of the Google Merchandise Store.  
-- **Key Insights**: Developed data-driven recommendations to increase Women’s Apparel traffic by 20%, sales by 10%, and overall store revenue by 15%.  
-- **Code**: [Google Merchandise Store Analytics Report](https://github.com/chonlita/Analytics-Portfolio/blob/main/Google%20Analytics/Reports/Google%20Merchandise%20Store%20Analytics%20Report.pdf)
+### PERSONAL PROJECT
 
-### 2. ADVANCE QUEENSLAND MEDIA ANALYSIS  
-- **Objective**: Analysed media coverage of healthcare innovations under the Advance Queensland program.  
-- **Key Insights**: Identified key themes, public sentiment, and policy impacts, providing valuable feedback for stakeholders on the program’s effectiveness.  
-- **Code**: [Advance Queensland Media Analysis](https://github.com/chonlita/Analytics-Portfolio/tree/6a4f4f36faad30534e663da49f577aff9cff16c3/Python%20Projects)
+**Loan Approval Prediction**  
+- **Objective**: Developed a machine learning model to predict loan approval based on applicant attributes such as credit history, income, and loan amount.  
+- **Key Insights**: Optimised model performance through iterative feature engineering and hyperparameter tuning, achieving 95% accuracy.
+
+## ACADEMIC PROJECTS
+*(Due to university policies on self-plagiarism, detailed code or reports are not uploaded.)*
+
+### Google Merchandise Store Analytics  
+- Conducted a strategic digital analysis of the Google Merchandise Store using six months of historical data.  
+- Developed data-driven recommendations aimed at increasing Women’s Apparel traffic by 20%, sales by 10%, and overall store revenue by 15% within the next six months.  
+
+### Advance Queensland Media Analysis  
+- Analysed The Guardian’s coverage of healthcare innovations under the Advance Queensland program using text mining techniques.  
+- Identified key themes, public sentiment, and policy impacts, providing insights for stakeholders on program effectiveness and areas for improvement. 
+
+### Process Analysis and Redesign of Operational Performance Management  
+- Identified inefficiencies such as non-value-added activities and bottlenecks in key operational processes, with an overall cycle time efficiency of 11.43%.  
+- Recommended improvements to streamline processes, reduce redundancies, and leverage digital solutions for better resource utilization, prioritizing quick-win initiatives for immediate impact.  
+
+
+### Diabetic Patient Encounter Analysis  
+- Built a clustering model to profile the characteristics of diabetic patients.  
+- Applied decision tree modeling to identify patients at risk of readmission and used regression-based predictive modeling to analyze the relationship between factors and readmission risk.  
+
 
 ## Technical Skills
 
-- **Programming**: Python, C#, SQL, R  
-- **Tools & Technologies**: Power BI, Excel/Google Sheets, Google Analytics  
-- **Other**: BPMN 2.0 Modeling, ElasticSearch  
-- **Languages**: Fluent in Thai; Professional Working Proficiency in English  
+- **Programming**: Languages: Python, C#, SQL, R
+- **Data Analysis & Visualization Toolss**: Power BI, Excel/Google Sheets, Google Analytics
+- **Process Modeling**: BPMN 2.0, SAP Signavio
+- **Other**: ElasticSearch  
 
 ## Contact
 
