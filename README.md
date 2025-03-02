@@ -24,8 +24,9 @@ Major: Computational Data Science
 #### Loan Approval Prediction
 - **Objective**: Developed a machine learning model to predict loan approval based on applicant attributes such as credit history, income, and loan amount.  
 - **Key Insights**: Optimised model performance through iterative feature engineering and hyperparameter tuning, achieving 95% accuracy.
+- **Code**: [Loan Approval Prediction notebook](https://github.com/chonlita/Analytics-Portfolio/blob/main/Python%20Projects/Loan%20Approval%20Prediction.ipynb)
 
-### ACADEMIC PROJECTS
+### ACADEMIC PROJECTS  
 *(Due to university policies on self-plagiarism, detailed code or reports are not uploaded.)*
 
 #### Google Merchandise Store Analytics  
@@ -42,7 +43,7 @@ Major: Computational Data Science
 
 #### Diabetic Patient Encounter Analysis  
 - Built a clustering model to profile the characteristics of diabetic patients.  
-- Applied decision tree modeling to identify patients at risk of readmission and used regression-based predictive modeling to analyze the relationship between factors and readmission risk.  
+- Applied decision tree modeling to identify patients at risk of readmission and used regression-based predictive modeling to analyze the relationship between factors and readmission risk.
 
 ## Technical Skills
 
