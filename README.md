@@ -27,7 +27,7 @@ Major: Computational Data Science
 - **Code**: [Loan Approval Prediction notebook](https://github.com/chonlita/Analytics-Portfolio/blob/main/Python%20Projects/Loan%20Approval%20Prediction.ipynb)
 
 ### ACADEMIC PROJECTS  
-*(Due to university policies on self-plagiarism, detailed code or reports are not uploaded.)*
+*(Due to university policies on self-plagiarism, detailed code or reports are not uploaded).*
 
 #### Google Merchandise Store Analytics  
 - Conducted a strategic digital analysis of the Google Merchandise Store using six months of historical data.  
