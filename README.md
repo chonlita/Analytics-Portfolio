@@ -38,17 +38,17 @@ Major: Computational Data Science
 - Identified key themes, public sentiment, and policy impacts, providing insights for stakeholders on program effectiveness and areas for improvement. 
 
 #### Process Analysis and Redesign of Operational Performance Management  
-- Identified inefficiencies such as non-value-added activities and bottlenecks in key operational processes, with an overall cycle time efficiency of 11.43%.  
-- Recommended improvements to streamline processes, reduce redundancies, and leverage digital solutions for better resource utilization, prioritizing quick-win initiatives for immediate impact.  
+- Identified inefficiencies such as non-value-added activities and bottlenecks in key operational processes, **with an overall cycle time efficiency of 11.43%**.  
+- Recommended improvements to streamline processes, reduce redundancies, and leverage digital solutions for better resource utilisation, prioritising quick-win initiatives for immediate impact.  
 
 #### Diabetic Patient Encounter Analysis  
 - Built a clustering model to profile the characteristics of diabetic patients.  
-- Applied decision tree modeling to identify patients at risk of readmission and used regression-based predictive modeling to analyze the relationship between factors and readmission risk.
+- Applied decision tree modeling to identify patients at risk of readmission and used regression-based predictive modeling to analyse the relationship between factors and readmission risk.
 
 ## Technical Skills
 
 - **Programming**: Languages: Python, C#, SQL, R
-- **Data Analysis & Visualization Toolss**: Power BI, Excel/Google Sheets, Google Analytics
+- **Data Analysis & Visualisation Toolss**: Power BI, Excel/Google Sheets, Google Analytics
 - **Process Modeling**: BPMN 2.0, SAP Signavio
 - **Other**: ElasticSearch  
 
