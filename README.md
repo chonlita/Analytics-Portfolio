@@ -1,5 +1,5 @@
 # Analytics-Portfolio
-A collection of data analytics projects demonstrating expertise in Python, SQL, R, C#, Tableau, Power BI, and more.
+A collection of data analytics projects demonstrating expertise in Python, SQL, R, C#, Power BI, and more.
 
 ## Introduction
 
@@ -23,11 +23,11 @@ Major: Computational Data Science
 
 #### Loan Approval Prediction
 - **Objective**: Developed a machine learning model to predict loan approval based on applicant attributes such as credit history, income, and loan amount.  
-- **Key Insights**: Optimised model performance through iterative feature engineering and hyperparameter tuning, achieving 95% accuracy.
+- **Key Insights**: Optimised model performance through iterative feature engineering and hyperparameter tuning, **achieving 95% accuracy**.
 - **Code**: [Loan Approval Prediction notebook](https://github.com/chonlita/Analytics-Portfolio/blob/main/Python%20Projects/Loan%20Approval%20Prediction.ipynb)
 
 ### ACADEMIC PROJECTS  
-*(Due to university policies on self-plagiarism, detailed code or reports are not uploaded).*
+*(Due to university policies on self-plagiarism, detailed code or reports cannot be uploaded).*
 
 #### Google Merchandise Store Analytics  
 - Conducted a strategic digital analysis of the Google Merchandise Store using six months of historical data.  
