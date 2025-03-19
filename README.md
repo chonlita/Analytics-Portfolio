@@ -28,7 +28,7 @@ Major: Computational Data Science
 
 #### Uber Trip Analysis Dashboard
 - **Objective**: Built an interactive Power BI dashboard to analyse Uber trip data, highlighting key metrics such as trip distance, ride count, and most frequent drop-off locations.  
-- **Key Insights**: Provided data-driven insights on trip patterns, purpose breakdowns, and geographic trends to optimize operational decisions.  
+- **Key Insights**: Provided data-driven insights on trip patterns, purpose breakdowns, and geographic trends to optimise operational decisions.  
 - **Dashboard**: [Uber Trip Analysis Dashboard](Power%20BI%20Dashboards/Uber%20Trip%20Analysis%20Dashboard.png)
 
 ### ACADEMIC PROJECTS  
