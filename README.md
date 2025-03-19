@@ -27,7 +27,7 @@ Major: Computational Data Science
 - **Code**: [Loan Approval Prediction notebook](https://github.com/chonlita/Analytics-Portfolio/blob/main/Python%20Projects/Loan%20Approval%20Prediction.ipynb)
 
 #### Uber Trip Analysis Dashboard
-- **Objective**: Built an interactive Power BI dashboard to analyze Uber trip data, highlighting key metrics such as trip distance, ride count, and most frequent drop-off locations.  
+- **Objective**: Built an interactive Power BI dashboard to analyse Uber trip data, highlighting key metrics such as trip distance, ride count, and most frequent drop-off locations.  
 - **Key Insights**: Provided data-driven insights on trip patterns, purpose breakdowns, and geographic trends to optimize operational decisions.  
 - **Dashboard**: [Uber Trip Analysis Dashboard](Power%20BI%20Dashboards/Uber%20Trip%20Analysis%20Dashboard.png)
 
