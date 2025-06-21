@@ -34,10 +34,17 @@ With the growing risk of fraud in digital banking, this project focuses on visua
 - Used conditional formatting and slicers to highlight outliers and enable exploratory investigation.
 
 ## Project Structure
-<pre> Power BI Dashboards/ └── Bank Transaction Fraud Project/ ├── Bank Transaction Fraud Detection.pbix # Full Power BI report ├── DAX_Calculations.md # Key DAX formulas and measures ├── README.md # Project description and walkthrough └── dashboard_view.png # Screenshot of final dashboard </pre>
+## 📁 Project Structure
+Power BI Dashboards/  
+└── Bank Transaction Fraud Project/  
+    ├── Bank Transaction Fraud Detection.pbix   # Full Power BI report  
+    ├── [DAX_Calculations.md](./DAX_Calculations.md)   # Key DAX formulas and measures  
+    ├── README.md                               # Project description and walkthrough  
+    └── dashboard_view.png                      # Screenshot of final dashboard  
 
 ## Dataset Summary
 
+Data source: [Bank Transaction Fraud Detection – Kaggle](https://www.kaggle.com/datasets/marusagar/bank-transaction-fraud-detection)
 The data simulates real-world bank transactions, including:
 - **Customer Info**: Age, Gender, State, Contact
 - **Account Details**: Type, Branch, Balance
@@ -49,6 +56,16 @@ This synthetic dataset was designed for fraud detection model building and analy
 ## Outcome
 
 This dashboard delivers an accessible and insightful interface for fraud detection teams. It highlights fraud trends, supports investigation workflows, and contributes to a proactive fraud prevention strategy for the bank.
+
+## 📌 Key Insights & Analyst Relevance
+
+This dashboard highlights several fraud risk trends relevant to roles in compliance and fraud prevention:
+
+- **Consistently high fraud across Transfer, Credit, and Debit transactions** indicates the need for stronger monitoring on digital channels.
+- **Device-based risk is evenly distributed**, showing that fraud is not isolated to just mobile or ATM — suggesting cross-platform fraud detection policies are essential.
+- **Older customers (56+) account for the largest share of fraud cases (27.86%)**, flagging a vulnerable group that may need targeted awareness campaigns or stricter transaction verification.
+- **Fraud occurs across a wide range of merchant types** (e.g., Clothing, Electronics, Restaurants), reinforcing the need for merchant profiling and transaction pattern analysis.
+- **The dashboard's dynamic filters** (Gender, State, Account Type, etc.) enable real-time investigative slicing, supporting tasks like root cause analysis, audit response, and targeted compliance reporting.
 
 ---
 
