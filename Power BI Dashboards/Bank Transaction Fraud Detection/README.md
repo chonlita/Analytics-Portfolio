@@ -57,15 +57,6 @@ This synthetic dataset was designed for fraud detection model building and analy
 
 This dashboard delivers an accessible and insightful interface for fraud detection teams. It highlights fraud trends, supports investigation workflows, and contributes to a proactive fraud prevention strategy for the bank.
 
-## Key Insights & Analyst Relevance
-
-This dashboard highlights several fraud risk trends relevant to roles in compliance and fraud prevention:
-
-- **Consistently high fraud across Transfer, Credit, and Debit transactions** indicates the need for stronger monitoring on digital channels.
-- **Device-based risk is evenly distributed**, showing that fraud is not isolated to just mobile or ATM — suggesting cross-platform fraud detection policies are essential.
-- **Older customers (56+) account for the largest share of fraud cases (27.86%)**, flagging a vulnerable group that may need targeted awareness campaigns or stricter transaction verification.
-- **Fraud occurs across a wide range of merchant types** (e.g., Clothing, Electronics, Restaurants), reinforcing the need for merchant profiling and transaction pattern analysis.
-- **The dashboard's dynamic filters** (Gender, State, Account Type, etc.) enable real-time investigative slicing, supporting tasks like root cause analysis, audit response, and targeted compliance reporting.
 
 ---
 
