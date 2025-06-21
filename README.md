@@ -11,7 +11,6 @@ Hi, I'm Chonlita, a passionate data analytics professional currently pursuing a 
 **Master of Data Analytics**  
 Expected July 2025  
 Major: Computational Data Science  
-GPA: 6.29 / 7 — Dean’s List (Semester 2, 2024)
 
 ### University of Aberdeen, Aberdeen, United Kingdom  
 **Master of Laws in International Commercial Law**  
