@@ -40,7 +40,6 @@ With the growing risk of fraud in digital banking, this project focuses on visua
 ├── README.md # Project description and walkthrough
 ├── dashboard_view.png # Screenshot of final dashboard
 
-
 ## Dataset Summary
 
 The data simulates real-world bank transactions, including:
