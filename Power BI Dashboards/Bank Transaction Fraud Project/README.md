@@ -34,11 +34,7 @@ With the growing risk of fraud in digital banking, this project focuses on visua
 - Used conditional formatting and slicers to highlight outliers and enable exploratory investigation.
 
 ## Project Structure
-📂 Power BI Dashboards/Bank Transaction Fraud Project
-├── Bank Transaction Fraud Detection.pbix # Full Power BI report
-├── DAX_Calculations.md # Key DAX formulas and measures
-├── README.md # Project description and walkthrough
-├── dashboard_view.png # Screenshot of final dashboard
+<pre> Power BI Dashboards/ └── Bank Transaction Fraud Project/ ├── Bank Transaction Fraud Detection.pbix # Full Power BI report ├── DAX_Calculations.md # Key DAX formulas and measures ├── README.md # Project description and walkthrough └── dashboard_view.png # Screenshot of final dashboard </pre>
 
 ## Dataset Summary
 
