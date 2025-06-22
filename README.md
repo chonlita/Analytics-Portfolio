@@ -19,7 +19,7 @@ Major: Computational Data Science
 
 ## Portfolio Projects
 
-### PERSONAL PROJECT
+### PERSONAL PROJECTS
 
 #### Loan Approval Prediction
 - **Objective**: Developed a machine learning model to predict loan approval based on applicant attributes such as credit history, income, and loan amount.  
@@ -50,7 +50,7 @@ Major: Computational Data Science
 - Identified key themes, public sentiment, and policy impacts, providing insights for stakeholders on program effectiveness and areas for improvement.
 
 #### Process Analysis and Redesign of Operational Performance Management  
-- Identified inefficiencies such as non-value-added activities and bottlenecks in key operational processes, **with an overall cycle time efficiency of 11.43%**.  
+- Identified inefficiencies such as non-value-added activities and bottlenecks in key operational processes, with an overall cycle time efficiency of 11.43%.  
 - Recommended improvements to streamline processes, reduce redundancies, and leverage digital solutions for better resource utilisation.
 
 #### Diabetic Patient Encounter Analysis  
