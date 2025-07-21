@@ -9,8 +9,9 @@ Hi, I'm Chonlita, a passionate data analytics professional currently pursuing a 
 
 ### Queensland University of Technology (QUT), Queensland, Australia  
 **Master of Data Analytics**  
-Expected July 2025  
-Major: Computational Data Science  
+2023 - 2025
+Major: Computational Data Science
+*GPA: 6.47/7*
 
 ### University of Aberdeen, Aberdeen, United Kingdom  
 **Master of Laws in International Commercial Law**  
