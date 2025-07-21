@@ -30,7 +30,7 @@ Major: Computational Data Science
 #### Bank Transaction Fraud Detection Dashboard
 - **Objective**: Built an interactive Power BI dashboard to identify patterns in fraudulent transactions using historical banking data from LOL Bank Pvt. Ltd.  
 - **Key Insights**: Highlighted high-risk segments by age, device type, and transaction method. Designed KPIs such as fraud rate, total fraud amount, and average fraud per case to support compliance reporting and investigation workflows.  
-- **Dashboard**: [Bank Transaction Fraud Detection](https://github.com/chonlita/Analytics-Portfolio/tree/main/Power%20BI%20Dashboards/Bank%20Transaction%20Fraud%20Project)
+- **Dashboard**: [Bank Transaction Fraud Detection]([https://github.com/chonlita/Analytics-Portfolio/tree/main/Power%20BI%20Dashboards/Bank%20Transaction%20Fraud%20Project](https://github.com/chonlita/Analytics-Portfolio/tree/main/Power%20BI%20Dashboards/Bank%20Transaction%20Fraud%20Detection))
 
 ### INDUSTRY PARTNER PROJECT
 
