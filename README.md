@@ -3,7 +3,7 @@ A collection of data analytics projects demonstrating expertise in Python, SQL, 
 
 ## Introduction
 
-Hi, I'm Chonlita, a passionate data analytics professional currently pursuing a Master’s degree in Data Analytics at Queensland University of Technology (QUT). I have a background in law, which has strengthened my analytical thinking, problem-solving skills, and ability to navigate regulatory and compliance frameworks. My academic and professional journey has allowed me to build expertise in various areas of data analysis, including machine learning, artificial intelligence, process optimisation, and data visualisation. I’m excited to apply my skills to help businesses and organisations make data-driven decisions.
+Hi, I'm Chonlita, a passionate data analytics professional recently completing a Master’s degree in Data Analytics at Queensland University of Technology (QUT). I have a background in law, which has strengthened my analytical thinking, problem-solving skills, and ability to navigate regulatory and compliance frameworks. My academic and professional journey has allowed me to build expertise in various areas of data analysis, including machine learning, artificial intelligence, process optimisation, and data visualisation. I’m excited to apply my skills to help businesses and organisations make data-driven decisions.
 
 ## Education
 
