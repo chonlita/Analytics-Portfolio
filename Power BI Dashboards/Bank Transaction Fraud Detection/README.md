@@ -13,7 +13,7 @@ With the growing risk of fraud in digital banking, this project focuses on visua
 
 ## Key Dashboard Features
 
-![Fraud Monitoring Dashboard](./fraud_monitoring_dashboard.png)
+![Fraud Monitoring Dashboard](./fraud_monitoring_dashboard2.png)
 
 - **200K Total Transactions**
 - **10K Fraud Cases (5.04% Fraud Rate)**
