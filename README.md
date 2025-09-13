@@ -40,7 +40,7 @@ Major: Computational Data Science
 - Conducted large-scale inference and vectorisation to assist geospatial mapping and disaster planning.
 
 ### ACADEMIC PROJECTS  
-*(Due to university policies on self-plagiarism, detailed code or reports cannot be published).*
+*(Due to university policies on self-plagiarism, detailed code or reports cannot be fully published).*
 
 #### Google Merchandise Store Analytics  
 - Conducted a strategic digital analysis of the Google Merchandise Store using six months of historical data.  
@@ -59,7 +59,7 @@ Major: Computational Data Science
 - Applied decision tree modeling to identify patients at risk of readmission and used regression-based predictive modeling to analyse the relationship between factors and readmission risk.
 
 #### Object Recognition with Deep Learning  
-- Trained an Attention-Augmented ResNet34 from scratch on the Caltech-256 dataset, achieving the highest top-1 accuracy (49%) among custom models.  
+- Trained an Attention-Augmented ResNet34 from scratch on the Caltech-256 dataset, achieving the highest top-1 accuracy (49%) among custom models [From Scratch AA-ResNet](https://github.com/chonlita/Analytics-Portfolio/blob/5607026ad4ca6a08238c27ceb0cb2de6f97a2fc8/Python%20Projects/AA-ResNet.ipynb).  
 - Compared performance across EfficientNet, Vision Transformer, and a hybrid Conv-ViT on 257-class classification.
 
 ## Technical Skills
