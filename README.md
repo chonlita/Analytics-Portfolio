@@ -42,7 +42,7 @@ Major: Computational Data Science
 Note: Project details are under a confidentiality agreement (NDA) and cannot be publicly shared.
 
 ### ACADEMIC PROJECTS  
-*(Due to university policies on self-plagiarism, detailed code or reports cannot be <u>Tfully</u> published)*
+*(Due to university policies on self-plagiarism, detailed code or reports cannot be <u>fully</u> published)*
 
 #### Google Merchandise Store Analytics  
 - Conducted a strategic digital analysis of the Google Merchandise Store using six months of historical data.  
