@@ -74,7 +74,7 @@ Note: Project details are under a confidentiality agreement (NDA) and cannot be 
 - Compared performance across EfficientNet, Vision Transformer, and a hybrid Conv-ViT on 257-class classification.
 
 #### Multi-Task Learning and Fine-Tuning
-- Part of a university assignment applying deep learning methods (CNN and MobileNetV3) for image classification and semantic segmentation.
+- Part of a university assignment applying deep learning methods ([CNN and MobileNetV3](https://github.com/chonlita/Analytics-Portfolio/blob/main/Python%20Projects/Deep%20Learning%20(CNN%20and%20MobileNetV3).ipynb)) for image classification and semantic segmentation.
 - Demonstrates transfer learning and multi-task learning techniques applied to the Oxford-IIIT Pet dataset for improved performance and efficiency.
 
 ## Technical Skills
