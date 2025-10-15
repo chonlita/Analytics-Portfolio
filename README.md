@@ -58,6 +58,11 @@ Note: Project details are under a confidentiality agreement (NDA) and cannot be 
 - Identified inefficiencies such as non-value-added activities and bottlenecks in key operational processes, with an overall cycle time efficiency of 11.43%.  
 - Recommended improvements to streamline processes, reduce redundancies, and leverage digital solutions for better resource utilisation.
 
+#### Digital Music Analysis – Parallelisation and Performance Optimisation
+- Parallelised core computations using C# and the .NET System.Threading.Tasks library, applying Parallel.For to optimise twiddle factor initialisation, STFT computation, FFT-based onset detection, and matrix normalisation.
+- Re-engineered FFT from a recursive to an iterative approach for improved memory efficiency and scalability.
+- Achieved significant performance gains — 2.7× overall speedup and up to 9× faster frequency-domain processing — verified through detailed timing and CPU profiling.
+
 #### Diabetic Patient Encounter Analysis  
 - Built a clustering model to profile the characteristics of diabetic patients.  
 - Applied decision tree modeling to identify patients at risk of readmission and used regression-based predictive modeling to analyse the relationship between factors and readmission risk. [Decision Tree Model](https://github.com/chonlita/Analytics-Portfolio/blob/main/Python%20Projects/Decision%20Tree_High-Risk%20Readmission.ipynb)
