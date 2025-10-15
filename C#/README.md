@@ -96,5 +96,4 @@ No external datasets or proprietary code are distributed with this repository.
 
 ---
 
-## 📁 Repository Structure
 
