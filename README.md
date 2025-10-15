@@ -73,6 +73,10 @@ Note: Project details are under a confidentiality agreement (NDA) and cannot be 
 - Trained an Attention-Augmented ResNet34 from scratch on the Caltech-256 dataset, achieving the highest top-1 accuracy (49%) among custom models [From Scratch AA-ResNet](https://github.com/chonlita/Analytics-Portfolio/blob/main/Python%20Projects/AA-ResNet_updated.ipynb)).  
 - Compared performance across EfficientNet, Vision Transformer, and a hybrid Conv-ViT on 257-class classification.
 
+#### Multi-Task Learning and Fine-Tuning
+- Part of a university assignment applying deep learning methods (CNN and MobileNetV3) for image classification and semantic segmentation.
+- Demonstrates transfer learning and multi-task learning techniques applied to the Oxford-IIIT Pet dataset for improved performance and efficiency.
+
 ## Technical Skills
 
 - **Programming Languages**: Python, C#, SQL, R  
