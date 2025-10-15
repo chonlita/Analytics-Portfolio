@@ -1,6 +1,16 @@
-# WalkthisWay Online Shoe Store
+## WalkthisWay Online Shoe Store
 
-## Database Tables
+## Description
+This repository contains the SQL database schema and sample queries for a fictitious online shoe store called **WalkthisWay**.  
+The database includes tables for stores, employees, customers, orders, products, suppliers, payments, and more.  
+
+The purpose of this project is to demonstrate:  
+- Database design using SQL  
+- Table creation with primary and foreign keys  
+- Sample queries for data retrieval and reporting  
+- User creation, indexing, and view creation in SQL  
+
+This README organises all SQL scripts into clear sections for easy reference and showcases practical examples of database operations in a retail context.
 
 ### StoreEmployee Table
 ```sql
