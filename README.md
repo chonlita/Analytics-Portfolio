@@ -39,6 +39,8 @@ Major: Computational Data Science
 - Developed a machine learning model with 89% accuracy to extract building polygons from aerial imagery.
 - Conducted large-scale inference and vectorisation to assist geospatial mapping and disaster planning.
 
+Note: Project details are under a confidentiality agreement (NDA) and cannot be publicly shared.
+
 ### ACADEMIC PROJECTS  
 *(Due to university policies on self-plagiarism, detailed code or reports cannot be fully published).*
 
@@ -46,9 +48,11 @@ Major: Computational Data Science
 - Conducted a strategic digital analysis of the Google Merchandise Store using six months of historical data.  
 - Developed data-driven recommendations aimed at increasing Women’s Apparel traffic by 20%, sales by 10%, and overall store revenue by 15%.
 
-#### Advance Queensland Media Analysis  
-- Analysed The Guardian’s coverage of healthcare innovations under the Advance Queensland program using text mining techniques.  
-- Identified key themes, public sentiment, and policy impacts, providing insights for stakeholders on program effectiveness and areas for improvement.
+#### Advance Queensland Media Analysis 
+- Analysed The Guardian’s coverage of healthcare innovations under the Advance Queensland program using text mining and topic modelling techniques (NMF and LDA).
+- Implemented comprehensive text preprocessing including HTML tag removal, abbreviation replacement, tokenisation, stopword filtering, and lemmatisation to prepare clean, interpretable data.
+- Identified key themes, public sentiment, and policy impacts, providing actionable insights for stakeholders on program effectiveness and improvement opportunities.
+[View project](https://github.com/chonlita/Analytics-Portfolio/blob/main/Python%20Projects/Advance%20Queensland%20Media%20Analysis.ipynb)
 
 #### Process Analysis and Redesign of Operational Performance Management  
 - Identified inefficiencies such as non-value-added activities and bottlenecks in key operational processes, with an overall cycle time efficiency of 11.43%.  
@@ -56,7 +60,7 @@ Major: Computational Data Science
 
 #### Diabetic Patient Encounter Analysis  
 - Built a clustering model to profile the characteristics of diabetic patients.  
-- Applied decision tree modeling to identify patients at risk of readmission and used regression-based predictive modeling to analyse the relationship between factors and readmission risk.
+- Applied decision tree modeling to identify patients at risk of readmission and used regression-based predictive modeling to analyse the relationship between factors and readmission risk. [Decision Tree Model](https://github.com/chonlita/Analytics-Portfolio/blob/main/Python%20Projects/Decision%20Tree_High-Risk%20Readmission.ipynb)
 
 #### Object Recognition with Deep Learning  
 - Trained an Attention-Augmented ResNet34 from scratch on the Caltech-256 dataset, achieving the highest top-1 accuracy (49%) among custom models [From Scratch AA-ResNet](https://github.com/chonlita/Analytics-Portfolio/blob/5607026ad4ca6a08238c27ceb0cb2de6f97a2fc8/Python%20Projects/AA-ResNet.ipynb).  
