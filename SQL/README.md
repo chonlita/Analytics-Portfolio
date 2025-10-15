@@ -92,7 +92,7 @@ CREATE TABLE Supplier (
     PRIMARY KEY (suplrId)
 );
 
-```markdown
+```sql
 ### Guests who visited more than twice
 ```sql
 SELECT a.guestNo, b.guestName
@@ -101,7 +101,7 @@ WHERE a.guestNo = b.guestNo
 GROUP BY b.guestNo
 HAVING COUNT(b.guestNo) > 2;
 
-```markdown
+```sql
 ### Guest names who visited more than twice
 ```sql
 SELECT e.guestNAME
@@ -113,7 +113,7 @@ WHERE e.guestNO IN (
     HAVING COUNT(d.guestNO) > 2
 );
 
-```markdown
+```sql
 ### Total income from Ritz Hotel bookings
 ```sql
 SELECT SUM(b.price * DATEDIFF(a.dateTo, a.dateFrom)) AS TotalSum_RitzHotel
@@ -122,7 +122,7 @@ JOIN Room b ON a.hotelNo = b.hotelNo AND a.roomNo = b.roomNo
 WHERE a.hotelNo IN (SELECT hotelNo FROM Hotel WHERE hotelName = 'Ritz Hotel')
 HAVING SUM(b.price * DATEDIFF(a.dateTo, a.dateFrom));
 
-```markdown
+```sql
 ### Hotels with 2 or more Family rooms
 ```sql
 SELECT hotelNo
@@ -132,25 +132,25 @@ GROUP BY hotelNo
 HAVING COUNT(roomType) >= 2
 ORDER BY hotelNo;
 
-```markdown
+```sql
 ### Create index on guestName
 ```sql
 CREATE INDEX guestName ON Guest (guestName);
 SHOW INDEX FROM Guest;
 
-```markdown
+```sql
 ### Create users
 ```sql
 CREATE USER 'Jane'@'localhost' IDENTIFIED BY 'new_password';
 CREATE USER 'Alex'@'localhost' IDENTIFIED BY 'old_password' PASSWORD EXPIRE;
 
-```markdown
+```sql
 ### Show users and grants
 ```sql
 SELECT * FROM mysql.user;
 SHOW GRANTS FOR 'Jane'@'localhost';
 
-```markdown
+```sql
 ### Insert sample hotel data
 ```sql
 INSERT INTO Hotel (hotelNo, hotelName, city) VALUES ('H8', 'The Delightful Hotel', 'Brisbane');
@@ -158,13 +158,13 @@ INSERT INTO Room (roomNo, hotelNo, roomType, price) VALUES ('R1', 'H8', 'Executi
 INSERT INTO Guest (guestNo, guestName, guestAddress) VALUES ('G6', 'Matt Damon', 'New York');
 INSERT INTO Booking (hotelNo, guestNo, dateFrom, dateTo, roomNo) VALUES ('H8', 'G6', '2023-08-12', '2023-08-15', 'R1');
 
-```markdown
+```sql
 ### Update room prices
 ```sql
 UPDATE Room SET price = price * 1.25;
 SELECT * FROM Room;
 
-```markdown
+```sql
 ### Create and query view for Longreach hotels
 ```sql
 CREATE VIEW Longreach_Hotel_Info AS
