@@ -42,17 +42,18 @@ Major: Computational Data Science
 Note: Project details are under a confidentiality agreement (NDA) and cannot be publicly shared.
 
 ### ACADEMIC PROJECTS  
-*(Due to university policies on self-plagiarism, detailed code or reports cannot be fully published).*
+*(Due to university policies on self-plagiarism, detailed code or reports cannot be <u>Tfully</u> published)*
 
 #### Google Merchandise Store Analytics  
 - Conducted a strategic digital analysis of the Google Merchandise Store using six months of historical data.  
 - Developed data-driven recommendations aimed at increasing Women’s Apparel traffic by 20%, sales by 10%, and overall store revenue by 15%.
+  [View report](https://github.com/chonlita/Analytics-Portfolio/blob/main/Google%20Analytics/Digital%20Strategy%20and%20Analytics%20Report.pdf)
 
 #### Advance Queensland Media Analysis 
 - Analysed The Guardian’s coverage of healthcare innovations under the Advance Queensland program using text mining and topic modelling techniques (NMF and LDA).
 - Implemented comprehensive text preprocessing including HTML tag removal, abbreviation replacement, tokenisation, stopword filtering, and lemmatisation to prepare clean, interpretable data.
 - Identified key themes, public sentiment, and policy impacts, providing actionable insights for stakeholders on program effectiveness and improvement opportunities.
-[View project](https://github.com/chonlita/Analytics-Portfolio/blob/main/Python%20Projects/Advance%20Queensland%20Media%20Analysis.ipynb)
+  [View project](https://github.com/chonlita/Analytics-Portfolio/blob/main/Python%20Projects/Advance%20Queensland%20Media%20Analysis.ipynb)
 
 #### Process Analysis and Redesign of Operational Performance Management  
 - Identified inefficiencies such as non-value-added activities and bottlenecks in key operational processes, with an overall cycle time efficiency of 11.43%.  
@@ -62,6 +63,7 @@ Note: Project details are under a confidentiality agreement (NDA) and cannot be 
 - Parallelised core computations using C# and the .NET System.Threading.Tasks library, applying Parallel.For to optimise twiddle factor initialisation, STFT computation, FFT-based onset detection, and matrix normalisation.
 - Re-engineered FFT from a recursive to an iterative approach for improved memory efficiency and scalability.
 - Achieved significant performance gains — 2.7× overall speedup and up to 9× faster frequency-domain processing — verified through detailed timing and CPU profiling.
+  [View code](https://github.com/chonlita/Analytics-Portfolio/tree/main/C%23/Parallelisation%20Project)
 
 #### Diabetic Patient Encounter Analysis  
 - Built a clustering model to profile the characteristics of diabetic patients.  
