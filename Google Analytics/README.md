@@ -1,6 +1,6 @@
-# 📊 Digital Strategy and Analytics – Google Merchandise Store
+# Digital Strategy and Analytics – Google Merchandise Store
 
-## 📖 Overview
+## Overview
 This project provides a **strategic review and enhancement** of the digital strategy for the Google Merchandise Store.  
 The analysis uses **data from April 21, 2024, to October 21, 2024**, establishing a performance baseline and generating actionable insights for the next six months.  
 
@@ -11,14 +11,14 @@ The analysis uses **data from April 21, 2024, to October 21, 2024**, establishin
 
 ---
 
-## 📊 Technologies & Tools
+## Technologies & Tools
 - **Data Source:** Google Analytics, Google Merchandise Store dataset  
 - **Tools:** Excel (for visualisation)  
 - **Techniques:** Acquisition analysis, user engagement metrics, conversion funnel analysis, top-selling product analysis  
 
 ---
 
-## 🧾 Notes
+## Notes
 - Analysis period: **April 21, 2024 – October 21, 2024**  
 - Recommendations focus on the next six months strategy.  
 
