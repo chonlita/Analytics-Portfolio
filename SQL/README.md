@@ -148,7 +148,7 @@ ORDER BY hotelNo;
 CREATE INDEX guestName ON Guest (guestName);
 SHOW INDEX FROM Guest;
 
-```sql
+```
 ### Create users
 ```sql
 CREATE USER 'Jane'@'localhost' IDENTIFIED BY 'new_password';
